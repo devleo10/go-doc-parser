@@ -1,4 +1,3 @@
-# Springpad Doc Parser Backend
 
 This is a Go backend for uploading and processing CAMS PDF portfolio reports.
 
